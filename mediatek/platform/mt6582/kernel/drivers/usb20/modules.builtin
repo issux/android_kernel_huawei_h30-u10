@@ -1,0 +1,3 @@
+kernel/mediatek/platform/mt6582/kernel/drivers/usb20/usb20.ko
+kernel/mediatek/platform/mt6582/kernel/drivers/usb20/usb20_phy.ko
+kernel/mediatek/platform/mt6582/kernel/drivers/usb20/usb20_host.ko
